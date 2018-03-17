@@ -1,6 +1,7 @@
 // C++ program to implement Solovay-Strassen
 // Primality Test
 #include <iostream>
+#include <stdlib.h>
 using namespace std;
 
 // modulo function to perform binary exponentiation
